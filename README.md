@@ -1,20 +1,22 @@
 ### Hi there 👋
 
-:man_technologist: Check all my projects all in one place:
+:derelict_house: Home automation project:
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gostanin&repo=projects-master)](https://github.com/gostanin/projects-master)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gostanin&repo=home-automation-ui)](https://github.com/gostanin/projects-master)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gostanin&repo=home-automation-api)](https://github.com/gostanin/projects-master)
 
 :joystick: Minesweeper project:
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gostanin&repo=minesweeper)](https://github.com/gostanin/minesweeper)
 
-<!-- :derelict_house: Home automation project:
+:man_technologist: Check all my projects all in one place:
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gostanin&repo=projects-master)](https://github.com/gostanin/projects-master) -->
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gostanin&repo=projects-master)](https://github.com/gostanin/projects-master)
 
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gostanin&exclude_repo=projects-master,machine-learning">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gostanin&exclude_repo=projects-master,machine-learning,file-system-watcher&hide=CSS,HTML">
 
 
 
