@@ -2,9 +2,9 @@
 
 :derelict_house: Home automation project:
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gostanin&repo=home-automation-ui)](https://github.com/gostanin/projects-master)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gostanin&repo=home-automation-ui)](https://github.com/gostanin/home-automation-ui)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gostanin&repo=home-automation-api)](https://github.com/gostanin/projects-master)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gostanin&repo=home-automation-api)](https://github.com/gostanin/home-automation-api)
 
 :joystick: Minesweeper project:
 
